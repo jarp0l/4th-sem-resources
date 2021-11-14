@@ -1,4 +1,5 @@
 # 4th-sem-resources
+Resources for 4th semester, target: TU, IOE curriculum
 
 ## Program: BEI
 <!-- ### Applied Mathematics [SH 551]
