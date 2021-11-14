@@ -25,7 +25,7 @@ Resources for 4th semester, target: TU, IOE curriculum
   *  [6.837: Introduction to Computer Graphics (Fall 2020)](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh) - Prof.  Justin Solomon, MIT *(YouTube Playlist)*
       -  MIT OCW: [6.837: Computer Graphics, Fall 2012](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/) *(Has lectures notes, assignments, etc; also applicable for fall 2020 lectures)*
   * [Computer Graphics (CMU 15-462/662)](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) - CMU *(YouTube Playlist)*
-      - Course Info: http://15462.courses.cs.cmu.edu/fall2021/ *(Lecture Slides, Assignments)*
+      - [Course Info](http://15462.courses.cs.cmu.edu/fall2021/) *(Lecture Slides, Assignments)*
   * [Introduction to Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) - Cem Yuksel *(YouTube Playlist)*
   * [A Guide to Modern OpenGL Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions) - fendevel *(GitHub repo)*
   * [OpenGL](https://youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) - The Cherno *(YouTube Playlist)*
