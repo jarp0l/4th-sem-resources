@@ -25,6 +25,13 @@ Resources for 4th semester, target: TU, IOE curriculum
   * [MIT 6.006 Introduction to Algorithms, Spring 2020](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020) - MIT OCW *(Lecture Notes, Assignments, etc)*
     -  [YouTube Playlist](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
     - *Other versions also available*
+  * [Algorithms](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari *(YouTube Playlist)*
+    - There are more on [his YouTube channel](https://youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw).
+  * [Data Structures](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool *(YouTube Playlist)*
+    - [Visit their channel](https://youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA) for more videos.
+  * For programming concepts:
+    - [Programming Concepts](https://youtube.com/playlist?list=PLDN4rrl48XKp1ubbVUHVrOMkO4rTsjXrg) - Abdul Bari *(YouTube Playlist)*
+    - [Pointers in C/C++](https://youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_) - mycodeschool *(YouTube Playlist)*
 
 [Share  ](#data-structures-and-algorithms-ct-552)
 
